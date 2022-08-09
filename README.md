@@ -1,5 +1,5 @@
 # pythonwebservisbaglantisi
-Python ile webservisden veri almak.
+Python ile webservisden veri almak.https://youtu.be/Lnx3heKrp9Y
 <br>
 Python kodlaması için Visual Studio Code kullandım.
 
