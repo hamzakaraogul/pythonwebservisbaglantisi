@@ -25,3 +25,8 @@ Bu operasyonda <img src="https://user-images.githubusercontent.com/62428397/1836
 
 <br>
 <img src="https://user-images.githubusercontent.com/62428397/183638283-a09fc158-fe0e-4931-9966-82da247a0e20.png">
+<br>
+Sorguyu çalıştırdığımızda da 53.6 olarak bize çevirdiğini görüyoruz ve webservis bağlantımızın çalıştığını görüyoruz.
+<br>
+
+<img src="https://user-images.githubusercontent.com/62428397/183639199-8ab02c40-5739-41c0-90bb-d1f1ca003868.png">
