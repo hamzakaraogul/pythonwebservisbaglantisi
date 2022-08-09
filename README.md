@@ -1,5 +1,7 @@
 # pythonwebservisbaglantisi
 Python ile webservisden veri almak.
+<br>
+Python kodlaması için Visual Studio Code kullandım.
 
 <br>
 İlk olarak cmd konsolunu açınız ve aşağıdaki kodları sırası ile giriniz.
